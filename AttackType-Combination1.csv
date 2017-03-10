@@ -1,0 +1,120 @@
+"","bitValuesAttackTypes","attacktype1_txt","attacktype2_txt","attacktype3_txt","Total_Incidents"
+"1","000000001","Unarmed Assault",".",".",808
+"2","000000010","Unknown",".",".",5485
+"3","000000100","Hostage Taking (Barricade Incident)",".",".",713
+"4","000001000","Hijacking",".",".",494
+"5","000001100","Hijacking","Hostage Taking (Barricade Incident)",".",2
+"6","000010000","Assassination",".",".",17463
+"7","000010100","Assassination","Hostage Taking (Barricade Incident)",".",5
+"8","000011000","Assassination","Hijacking",".",1
+"9","000100000","Hostage Taking (Kidnapping)",".",".",7668
+"10","000100000","Hostage Taking (Kidnapping)","Hostage Taking (Kidnapping)",".",6
+"11","000100001","Hostage Taking (Kidnapping)","Unarmed Assault",".",11
+"12","000100010","Hostage Taking (Kidnapping)","Unknown",".",2
+"13","000100100","Hostage Taking (Barricade Incident)","Hostage Taking (Kidnapping)",".",1
+"14","000100100","Hostage Taking (Kidnapping)","Hostage Taking (Barricade Incident)",".",2
+"15","000101000","Hijacking","Hostage Taking (Kidnapping)",".",11
+"16","000101000","Hostage Taking (Kidnapping)","Hijacking",".",2
+"17","000110000","Assassination","Hostage Taking (Kidnapping)",".",77
+"18","000110000","Hostage Taking (Kidnapping)","Assassination",".",11
+"19","000111000","Assassination","Hostage Taking (Kidnapping)","Hijacking",1
+"20","001000000","Bombing/Explosion",".",".",74339
+"21","001000000","Bombing/Explosion","Bombing/Explosion",".",11
+"22","001000001","Bombing/Explosion","Unarmed Assault",".",10
+"23","001000010","Bombing/Explosion","Unknown",".",1
+"24","001000100","Bombing/Explosion","Hostage Taking (Barricade Incident)",".",3
+"25","001000100","Hostage Taking (Barricade Incident)","Bombing/Explosion",".",24
+"26","001001000","Bombing/Explosion","Hijacking",".",2
+"27","001001000","Hijacking","Bombing/Explosion",".",11
+"28","001010000","Assassination",".","Bombing/Explosion",1
+"29","001010000","Assassination","Bombing/Explosion",".",12
+"30","001010000","Bombing/Explosion","Assassination",".",63
+"31","001100000","Bombing/Explosion","Hostage Taking (Kidnapping)",".",34
+"32","001100000","Hostage Taking (Kidnapping)","Bombing/Explosion",".",43
+"33","001100000","Hostage Taking (Kidnapping)","Bombing/Explosion","Hostage Taking (Kidnapping)",1
+"34","001101000","Bombing/Explosion","Hijacking","Hostage Taking (Kidnapping)",1
+"35","001101000","Bombing/Explosion","Hostage Taking (Kidnapping)","Hijacking",1
+"36","010000000","Facility/Infrastructure Attack",".",".",8660
+"37","010000001","Unarmed Assault","Facility/Infrastructure Attack",".",18
+"38","010000010","Unknown","Facility/Infrastructure Attack",".",5
+"39","010000100","Facility/Infrastructure Attack","Hostage Taking (Barricade Incident)",".",5
+"40","010000100","Hostage Taking (Barricade Incident)","Facility/Infrastructure Attack",".",32
+"41","010001000","Hijacking","Facility/Infrastructure Attack",".",13
+"42","010001001","Unarmed Assault","Hijacking","Facility/Infrastructure Attack",1
+"43","010010000","Assassination",".","Facility/Infrastructure Attack",1
+"44","010010000","Assassination","Facility/Infrastructure Attack",".",2
+"45","010100000","Facility/Infrastructure Attack","Hostage Taking (Kidnapping)",".",41
+"46","010100000","Hostage Taking (Kidnapping)",".","Facility/Infrastructure Attack",1
+"47","010100000","Hostage Taking (Kidnapping)","Facility/Infrastructure Attack",".",161
+"48","010101000","Hijacking","Facility/Infrastructure Attack","Hostage Taking (Kidnapping)",1
+"49","011000000","Bombing/Explosion","Facility/Infrastructure Attack",".",138
+"50","011000000","Facility/Infrastructure Attack","Bombing/Explosion",".",23
+"51","011000001","Unarmed Assault","Bombing/Explosion","Facility/Infrastructure Attack",1
+"52","011000100","Hostage Taking (Barricade Incident)","Bombing/Explosion","Facility/Infrastructure Attack",3
+"53","011100000","Bombing/Explosion","Hostage Taking (Kidnapping)","Facility/Infrastructure Attack",2
+"54","011100000","Facility/Infrastructure Attack","Bombing/Explosion","Hostage Taking (Kidnapping)",1
+"55","011100000","Facility/Infrastructure Attack","Hostage Taking (Kidnapping)","Bombing/Explosion",1
+"56","011100000","Hostage Taking (Kidnapping)","Bombing/Explosion","Facility/Infrastructure Attack",4
+"57","100000000","Armed Assault",".",".",36169
+"58","100000000","Armed Assault","Armed Assault",".",2
+"59","100000001","Armed Assault","Unarmed Assault",".",15
+"60","100000100","Armed Assault","Hostage Taking (Barricade Incident)",".",12
+"61","100000100","Hostage Taking (Barricade Incident)","Armed Assault",".",48
+"62","100001000","Armed Assault","Hijacking",".",3
+"63","100001000","Hijacking","Armed Assault",".",22
+"64","100001100","Hijacking","Hostage Taking (Barricade Incident)","Armed Assault",1
+"65","100010000","Armed Assault","Assassination",".",80
+"66","100010000","Assassination",".","Armed Assault",1
+"67","100010000","Assassination","Armed Assault",".",12
+"68","100010100","Armed Assault","Hostage Taking (Barricade Incident)","Assassination",1
+"69","100100000","Armed Assault",".","Hostage Taking (Kidnapping)",2
+"70","100100000","Armed Assault","Hostage Taking (Kidnapping)",".",286
+"71","100100000","Armed Assault","Hostage Taking (Kidnapping)","Armed Assault",3
+"72","100100000","Hostage Taking (Kidnapping)",".","Armed Assault",1
+"73","100100000","Hostage Taking (Kidnapping)","Armed Assault",".",1079
+"74","100100000","Hostage Taking (Kidnapping)","Armed Assault","Armed Assault",3
+"75","100100000","Hostage Taking (Kidnapping)","Armed Assault","Hostage Taking (Kidnapping)",1
+"76","100100001","Hostage Taking (Kidnapping)","Armed Assault","Unarmed Assault",8
+"77","100100100","Armed Assault","Hostage Taking (Barricade Incident)","Hostage Taking (Kidnapping)",1
+"78","100100100","Hostage Taking (Kidnapping)","Hostage Taking (Barricade Incident)","Armed Assault",2
+"79","100101000","Armed Assault","Hijacking","Hostage Taking (Kidnapping)",2
+"80","100101000","Armed Assault","Hostage Taking (Kidnapping)","Hijacking",2
+"81","100101000","Hijacking","Armed Assault","Hostage Taking (Kidnapping)",1
+"82","100110000","Assassination","Hostage Taking (Kidnapping)","Armed Assault",5
+"83","100110000","Hostage Taking (Kidnapping)","Armed Assault","Assassination",1
+"84","100110000","Hostage Taking (Kidnapping)","Assassination","Armed Assault",7
+"85","101000000","Armed Assault","Bombing/Explosion",".",247
+"86","101000000","Armed Assault","Bombing/Explosion","Armed Assault",3
+"87","101000000","Armed Assault","Bombing/Explosion","Bombing/Explosion",1
+"88","101000000","Bombing/Explosion","Armed Assault",".",1296
+"89","101000000","Bombing/Explosion","Armed Assault","Armed Assault",1
+"90","101000000","Bombing/Explosion","Armed Assault","Bombing/Explosion",2
+"91","101000100","Armed Assault","Bombing/Explosion","Hostage Taking (Barricade Incident)",1
+"92","101000100","Bombing/Explosion","Armed Assault","Hostage Taking (Barricade Incident)",1
+"93","101000100","Hostage Taking (Barricade Incident)","Bombing/Explosion","Armed Assault",13
+"94","101010000","Armed Assault","Bombing/Explosion","Assassination",1
+"95","101010000","Assassination","Bombing/Explosion","Armed Assault",1
+"96","101010000","Bombing/Explosion","Armed Assault","Assassination",1
+"97","101100000","Armed Assault","Bombing/Explosion","Hostage Taking (Kidnapping)",10
+"98","101100000","Armed Assault","Hostage Taking (Kidnapping)","Bombing/Explosion",3
+"99","101100000","Bombing/Explosion","Armed Assault","Hostage Taking (Kidnapping)",9
+"100","101100000","Bombing/Explosion","Hostage Taking (Kidnapping)","Armed Assault",2
+"101","101100000","Hostage Taking (Kidnapping)","Armed Assault","Bombing/Explosion",3
+"102","101100000","Hostage Taking (Kidnapping)","Bombing/Explosion","Armed Assault",34
+"103","110000000","Armed Assault","Facility/Infrastructure Attack",".",667
+"104","110000000","Armed Assault","Facility/Infrastructure Attack","Armed Assault",4
+"105","110000000","Armed Assault","Facility/Infrastructure Attack","Facility/Infrastructure Attack",1
+"106","110000000","Facility/Infrastructure Attack","Armed Assault",".",109
+"107","110000000","Facility/Infrastructure Attack","Armed Assault","Armed Assault",1
+"108","110000100","Hostage Taking (Barricade Incident)","Facility/Infrastructure Attack","Armed Assault",1
+"109","110100000","Armed Assault","Facility/Infrastructure Attack","Hostage Taking (Kidnapping)",21
+"110","110100000","Armed Assault","Hostage Taking (Kidnapping)","Facility/Infrastructure Attack",11
+"111","110100000","Facility/Infrastructure Attack","Armed Assault","Hostage Taking (Kidnapping)",3
+"112","110100000","Facility/Infrastructure Attack","Hostage Taking (Kidnapping)","Armed Assault",3
+"113","110100000","Hostage Taking (Kidnapping)","Armed Assault","Facility/Infrastructure Attack",52
+"114","110100000","Hostage Taking (Kidnapping)","Facility/Infrastructure Attack","Armed Assault",12
+"115","111000000","Armed Assault","Bombing/Explosion","Facility/Infrastructure Attack",3
+"116","111000000","Armed Assault","Facility/Infrastructure Attack","Bombing/Explosion",3
+"117","111000000","Bombing/Explosion","Armed Assault","Facility/Infrastructure Attack",42
+"118","111000000","Bombing/Explosion","Facility/Infrastructure Attack","Armed Assault",4
+"119","111000000","Facility/Infrastructure Attack","Armed Assault","Bombing/Explosion",2
